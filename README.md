@@ -14,13 +14,6 @@ Some of the checklists in this doc are for **C4 (🐺)** and some of them are fo
 
 # Contest setup
 
-## 🐺 C4: Set up repos <!--⭕ Will review and finish this up with Jay tomorrow 2/18-->
-- [X] Create a new private repo named `YYYY-MM-sponsorname` using this repo as a template.
-- [ ] Get GitHub handles from sponsor.
-- [ ] Add sponsor to this private repo with 'maintain' level access.
-- [ ] Send the sponsor contact the url for this repo to follow the instructions below and add contracts here. 
-- [ ] Delete this checklist and wait for sponsor to complete their checklist.
-
 ## ⭐️ Sponsor: Provide contest details
 
 Under "SPONSORS ADD INFO HERE" heading below, include the following:
@@ -52,16 +45,6 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 
 # Contest prep
 
-## 🐺 C4: Contest prep <!--⭕ Will review and finish this up with Jay tomorrow 2/18. Note: need to verify if I got the submission form link right.-->
-- [X] Rename this repo to reflect contest date (if applicable)
-- [X] Rename contest H1 below
-- [ ] Add link to report form in contest details below
-- [X] Update pot sizes
-- [X] Fill in start and end times in contest bullets below.
-- [X] Move any relevant information in "contest scope information" above to the bottom of this readme.
-- [ ] Add matching info to the [code423n4.com public contest data here](https://github.com/code-423n4/code423n4.com/blob/main/_data/contests/contests.csv)
-- [ ] Delete this checklist.
-
 ## ⭐️ Sponsor: Contest prep
 - [ ] Make sure your code is thoroughly commented using the [NatSpec format](https://docs.soliditylang.org/en/v0.5.10/natspec-format.html#natspec-format).
 - [ ] Modify the bottom of this `README.md` file to describe how your code is supposed to work with links to any relevent documentation and any other criteria/details that the C4 Wardens should keep in mind when reviewing. ([Here's a well-constructed example.](https://github.com/code-423n4/2021-06-gro/blob/main/README.md))
@@ -79,7 +62,7 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 - $25,650 USDC main award pot
 - $1,350 gas optimization award pot
 - Join [C4 Discord](https://discord.gg/code4rena) to register
-- Submit findings [using the C4 form](https://code4rena.com/contests/2022-02-pooltogether-contest/submit)
+- Submit findings [using the C4 form](https://code4rena.com/contests/2022-02-pooltogether-twab-delegator-contest/submit)
 - [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
 - Starts February 22, 2022 00:00 UTC
 - Ends February 24, 2022 23:59 UTC
