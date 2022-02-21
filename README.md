@@ -8,9 +8,12 @@
 - Starts February 22, 2022 00:00 UTC
 - Ends February 24, 2022 23:59 UTC
 
-# Contest Scope
+# Resources
 
 [Code on Github](https://github.com/pooltogether/v4-twab-delegator)
+[Documentation](https://dev.pooltogether.com/protocol/contracts/v4-twab-delegator/)
+
+# Contest Scope
 
 This is a contest to evaluate the new TWAB Delegator contract for PoolTogether V4. This contract allows accounts to easily delegate their chance to win. This contract allows users to delegate a *portion* of their tickets to another user. For more details [read the documentation](https://dev.pooltogether.com/protocol/contracts/v4-twab-delegator/).
 
@@ -47,5 +50,6 @@ Aside from the standard auditing concerns, such as loss of funds, we want:
 
 - To ensure that only the TWAB Delegator can control the Delegation instances.
 - To ensure that the Delegation lock behaves as expected
+- The representative should NOT have access to the delegator's funds.  The rep can only delegate.
 
 Of course this list isn't comprehensive, so if you see anything else let us know!
