@@ -10,8 +10,8 @@
 
 # Resources
 
-[Code on Github](https://github.com/pooltogether/v4-twab-delegator)
-[Documentation](https://dev.pooltogether.com/protocol/contracts/v4-twab-delegator/)
+- [Code on Github](https://github.com/pooltogether/v4-twab-delegator)
+- [Documentation](https://dev.pooltogether.com/protocol/contracts/v4-twab-delegator/)
 
 # Contest Scope
 
