@@ -10,7 +10,7 @@
 
 # Resources
 
-- [Code on Github](https://github.com/pooltogether/v4-twab-delegator)
+- [Code on Github](https://github.com/pooltogether/v4-twab-delegator/commit/2b6d42506187dd7096043e2dfec65fa06ab18577)
 - [Documentation](https://dev.pooltogether.com/protocol/contracts/v4-twab-delegator/)
 
 # Contest Scope
@@ -21,10 +21,10 @@ The TWAB Delegator contract is the top-level contract: all interactions occur wi
 
 | Contract Name | Source Lines of Code | Libraries | External Calls |
 | ------------- | -------------------- | ---------- | -------------- |
-| [TWABDelegator.sol](https://github.com/pooltogether/v4-twab-delegator/blob/master/contracts/TWABDelegator.sol) | ~300 sLoC | OpenZeppelin Contracts | PoolTogether V4 Ticket contract
-| [PermitAndMulticall.sol](https://github.com/pooltogether/v4-twab-delegator/blob/master/contracts/PermitAndMulticall.sol) | ~40 sLoC | OpenZeppelin Contracts | PoolTogether V4 Ticket contract
-| [LowLevelDelegator.sol](https://github.com/pooltogether/v4-twab-delegator/blob/master/contracts/LowLevelDelegator.sol) | ~35 sLoC | OpenZeppelin Contracts | None |
-| [Delegation.sol](https://github.com/pooltogether/v4-twab-delegator/blob/master/contracts/Delegation.sol) | ~45 sLoC | None | PoolTogether V4 Ticket contract |
+| [TWABDelegator.sol](https://github.com/pooltogether/v4-twab-delegator/blob/2b6d42506187dd7096043e2dfec65fa06ab18577/contracts/TWABDelegator.sol) | ~300 sLoC | OpenZeppelin Contracts | PoolTogether V4 Ticket contract
+| [PermitAndMulticall.sol](https://github.com/pooltogether/v4-twab-delegator/blob/2b6d42506187dd7096043e2dfec65fa06ab18577/contracts/PermitAndMulticall.sol) | ~40 sLoC | OpenZeppelin Contracts | PoolTogether V4 Ticket contract
+| [LowLevelDelegator.sol](https://github.com/pooltogether/v4-twab-delegator/blob/2b6d42506187dd7096043e2dfec65fa06ab18577/contracts/LowLevelDelegator.sol) | ~35 sLoC | OpenZeppelin Contracts | None |
+| [Delegation.sol](https://github.com/pooltogether/v4-twab-delegator/blob/2b6d42506187dd7096043e2dfec65fa06ab18577/contracts/Delegation.sol) | ~45 sLoC | None | PoolTogether V4 Ticket contract |
 
 ## TWABDelegator
 
